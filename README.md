@@ -12,3 +12,6 @@
 # Preview
 <div align='center'><img src='https://i.ibb.co/BGxXWky/x19dev-scoreboardfree2.png'/></div>
 <div align='center'><img src="https://i.ibb.co/2jdzP8W/Screenshot-2024-10-22-184348.png" /></div>
+
+# Support ?
+Welcome to our <a href="https://discord.gg/gcbzMPxSQt">Discord server</a>.
