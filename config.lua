@@ -29,7 +29,7 @@ Config.availableJobs = {
 Config.IllegalActions = {
     {
         name = "CitizenKidnap",
-        label = "Citizen kidnapping"
+        label = "Citizen kidnapping",
         minimumPolice = 4,
         busy = false,
     },
@@ -41,7 +41,7 @@ Config.IllegalActions = {
     },
     {
         name = "Houserobbery",
-        label = "House Robbery"
+        label = "House Robbery",
         minimumPolice = 4,
         busy = false,
     },
@@ -53,19 +53,19 @@ Config.IllegalActions = {
     },
     {
         name = "jewellery",
-        label = "Jewellery"
+        label = "Jewellery",
         minimumPolice = 6,
         busy = false,
     },
     {
         name = "fleeca",
-        label = "Bank Robbery"
+        label = "Bank Robbery",
         minimumPolice = 6,
         busy = false,
     },
     {
         name = "paleto",
-        label = "Paleto Bay Bank"
+        label = "Paleto Bay Bank",
         minimumPolice = 7,
         busy = false,
     },
@@ -77,31 +77,31 @@ Config.IllegalActions = {
     },
     {
         name = "bobcat",
-        label = "Bobcat Robbery"
+        label = "Bobcat Robbery",
         minimumPolice = 7,
         busy = false,
     },
     {
         name = "Humanlabs",
-        label = "Humanlabs Robbery"
+        label = "Humanlabs Robbery",
         minimumPolice = 10,
         busy = false,
     },
     {
         name = "Yachtrobbery",
-        label = "Yacht Robbery"
+        label = "Yacht Robbery",
         minimumPolice = 8,
         busy = false,
     },
     {
         name = "pacific",
-        label = "Pacific Bank"
+        label = "Pacific Bank",
         minimumPolice = 10,
         busy = false,
     },
     {
         name = "PoliceKidnap",
-        label = "Police kidnapping"
+        label = "Police kidnapping",
         minimumPolice = 15,
         busy = false,
     },
